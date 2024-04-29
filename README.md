@@ -1,4 +1,10 @@
-# Not-cias-tendenciosas
-Como ponto focal do projeto, tínhamos a utilização de uma api, para consumir dados, realizar a criação de um banco de dados e a criação de um dashboard. 
+Projeto de Análise de Notícias Tendenciosas no YouTube
+Projeto de Análise de Notícias Tendenciosas no YouTube
 
-O projeto foi construído com base em uma API do youtube, na qual selecionamos os principais canais de notícias do país para realizar uma análise e entender se existe algum canal tendencioso ou não.
+No ambiente atual de informações digitais, a disseminação de notícias tendenciosas tem se tornado uma preocupação crescente. O YouTube, como uma das plataformas de mídia mais populares, desempenha um papel significativo na distribuição dessas notícias. Este projeto tem como objetivo desenvolver uma ferramenta para analisar a tendenciosidade das notícias veiculadas em vídeos do YouTube, concentrando-se em canais brasileiros.
+
+Usando a API do YouTube, vamos extrair uma ampla variedade de vídeos de diferentes canais brasileiros de notícias. Em seguida, empregaremos técnicas de processamento de linguagem natural (PLN) e análise de sentimentos para identificar padrões de tendenciosidade nas informações apresentadas.
+
+Ao disponibilizar essa ferramenta no GitHub, buscamos promover transparência e conscientização sobre a natureza das notícias online, capacitando os usuários a discernir entre informações objetivas e conteúdo tendencioso. Este projeto não apenas oferecerá uma análise crítica das notícias do YouTube, mas também fornecerá insights valiosos sobre as tendências de mídia no cenário brasileiro atual.
+
+Por meio da colaboração e contribuição da comunidade, esperamos aprimorar continuamente essa ferramenta, expandindo seu alcance e precisão na detecção de viés nas notícias online. Juntos, podemos promover um ambiente de informação mais justo e equilibrado para todos os usuários da internet.
